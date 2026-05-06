@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there, I'm Diana 👋
 
 Senior Frontend Engineer with 7+ years of experience building complex web applications, real-time systems, and high-load graphical interfaces.
